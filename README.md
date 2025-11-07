@@ -41,7 +41,7 @@ A full-stack expense management application that allows users to track, analyze,
 ├── package-lock.json
 │
 ├── backend
-│   └── src
+│   
 │       ├── server.js
 │       ├── config
 │       │   └── connectDb.js
@@ -56,7 +56,7 @@ A full-stack expense management application that allows users to track, analyze,
 │           └── userRoute.js
 │
 ├── frontend
-│   └── client
+│   └── 
 │
 ├── ml
 │   ├── app.py
